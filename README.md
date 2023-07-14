@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Felipe Lima 👨🏻
 <p>Sou desenvolvedor web front-end! 💻<p>
-  <hr>
 
 ## Tecnologias que utilizo
 <div style="display: inline_block">
