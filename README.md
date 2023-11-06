@@ -1,5 +1,5 @@
 ```json
-Hi, i`m a front-end web developer, learning skills back-end. 💻
+Hi 👋🏻 i`m a front-end web developer, learning skills back-end. 💻
 
 {
   "name": "Felipe Lima",
