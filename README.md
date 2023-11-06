@@ -5,10 +5,10 @@ Hi 👋🏻 i`m a front-end web developer, learning skills back-end. 💻
   "name": "Felipe Lima",
   "age": 28,
   "city": "Florianópolis",
-  "hometown:": "Cidreira-RS",
-  "hobbie": "games",
-  "sport": "surf",
-} 
+  "hometown": "Cidreira-RS",
+  "hobby": "Games",
+  "sport": "Surf"
+}
 ```
 
 ## Tecnologias que utilizo
