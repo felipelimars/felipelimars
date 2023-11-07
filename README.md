@@ -1,6 +1,6 @@
-```json
 Hi 👋🏻 i`m a front-end web developer, learning skills back-end. 💻
 
+```json
 {
   "name": "Felipe Lima",
   "age": 28,
