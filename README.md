@@ -1,17 +1,6 @@
-Hi 👋🏻 i`m a front-end web developer, learning skills back-end. 💻
+Hi 👋🏻 i`m a fullstack web developer. 💻
 
-```json
-{
-  "name": "Felipe Lima",
-  "age": 28,
-  "city": "Florianópolis-SC",
-  "hometown": "Cidreira-RS",
-  "hobby": "Games",
-  "sport": "Surf"
-}
-```
-
- ### Ferramentas que utilizo:
+### My tools:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nodejs,mysql,sqlite,react,express)](https://skillicons.dev)
 
   <h3>Entre em contato comigo</h3>
